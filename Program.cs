@@ -28,7 +28,7 @@ pontosATransferir = Convert.ToDouble(Console.ReadLine());
 
  
 
-pontosAReduzir = pontosATransferir - (pontosATransferir * percentualDeBonus) / 100; 
+pontosAReduzir = pontosATransferir - (pontosATransferir * percentualDeRetorno) / 100; 
 
 pontosAAcrescentar = pontosATransferir + (pontosATransferir * percentualDeBonus) / 100; 
 
